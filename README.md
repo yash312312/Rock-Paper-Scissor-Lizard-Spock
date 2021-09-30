@@ -18,3 +18,5 @@ Simulation of the famous "Rock, Paper, Scissor, Lizard Spock" game which was fea
 To play the game make sure python3 is installed on you computer and
 1. Download this repo and execute 'main.py' in any ide.
 2. Or execute 'run.bat' file.
+
+![alt text](https://github.com/yash312312/RockPaperScissorLizardSpock/blob/main/RPSLS.jpg?raw=true)
